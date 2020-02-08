@@ -1,0 +1,7 @@
+download the file "Legend.gif"
+
+use binwalk to open the file
+
+realize that it is actually jpeg
+
+run "binwalk -D '.*' Legend.gif" to extract the file and find the flag
