@@ -1,0 +1,5 @@
+A possible solution:
+
+https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4
+
+It should work

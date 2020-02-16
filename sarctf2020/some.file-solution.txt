@@ -1,0 +1,5 @@
+This is a simple Forensics question:
+
+1. unzip the file under linux system
+2. open [Content_Types].xml and find that there is a jpg file
+3. open word/media and find the flag
