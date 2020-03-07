@@ -1,0 +1,4 @@
+This audio file was encoded by slow-scan television (SSTV)
+Use RX-SSTV to decode it
+*downlaod the audio on the phone and play it in front of the PC 
+program link: http://users.belgacom.net/hamradio/rxsstv.htm
